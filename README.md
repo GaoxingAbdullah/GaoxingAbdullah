@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Python Django projects.<br>👯 I’m looking to collaborate on with Flutter projects.<br>🌱 I’m currently learning advanced Django.<br>💬 Ask me about anything <br>⚡ A postgraduate student in Computer Science.
+🔭 Python Django Developer.<br>👯 Flutter Developer.<br>🌱 Exploring new techs.<br>💬 Ask me about anything <br>⚡ Computer Science student.
 
 
 # 💻 Tech Stack:
