@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Python Django Developer.<br>👯 Flutter Developer.<br>🌱 Exploring new techs.<br>💬 <br>⚡ IoT Reseacher 
+🔭 Python Django Developer.<br>👯 Flutter Developer.<br>🌱 Exploring new techs.<br>⚡ IoT Reseacher 
 
 
 # 💻 Tech Stack:
