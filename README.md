@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Python  Django <br>👯 Flutter <br>🌱 Exploring new techs.<br>⚡ IoT & IoMT Reseacher 
+🔭 Python <br> <br>🌱 Exploring new techs.<br>⚡Reseacher 
 
 
 # 💻 Tech Stack:
