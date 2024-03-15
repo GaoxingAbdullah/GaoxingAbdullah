@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Python <br> <br>🌱 Exploring new techs.<br>⚡Reseacher 
+🔭 Python <br>🌱 Exploring new techs.<br>⚡Reseacher 
 
 
 # 💻 Tech Stack:
