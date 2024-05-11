@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software developper <br>⚡Reseacher 
+🔭 Software developer <br>⚡Reseacher 
 
 
 # 💻 Tech Stack:
