@@ -1,6 +1,4 @@
 # 💫 About Me:
-🔭 Python
-
 
 
 # 📊 GitHub Stats:
